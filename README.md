@@ -59,6 +59,16 @@ Further explanations of each visualization in the story can be found below:
 
     * Men and women subscribers have higher usage on all days of the week over men and women customers.
 
+
+<p align="center">
+  <img src = https://github.com/lauras521/Bike_Sharing/blob/b563ab51c7d279431006ccadf07e783d0ed711d9/VisualizationPic1_4.PNG>
+</p>
+
+<p align="center">
+  <img src = https://github.com/lauras521/Bike_Sharing/blob/b563ab51c7d279431006ccadf07e783d0ed711d9/VisualizationPic5_7.PNG>
+</p>
+
+
 ## Summary
 At a high level the CitiBike program in NYC has a high number of subscribers vs. customers and the majority of them are male.  The trip durations are short (peak usage ~5 minutes) and the peak times are around workday commutes and on the weekend.  
 
